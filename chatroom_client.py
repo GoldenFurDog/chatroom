@@ -5,7 +5,6 @@
 import socket
 import time
 
-
 client = socket.socket()
 ip = input("输入主机IP:")
 port = int(input("输入主机端口:"))
