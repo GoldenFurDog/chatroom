@@ -5,7 +5,6 @@
 import time
 import socket
 
-server_start():
 host = socket.socket()
 ip = input("输入主机IP地址:")
 port = int(input("输入未被占用的端口:"))
